@@ -5,3 +5,5 @@
 5. ➜  ~ kubectl run nginx --image=nginx --port=80
 6. ➜  ~ kubectl apply -f manifest.yml
 7. ➜  ~ kubectl delete pod nginx
+
+8. kubectl apply -f deployment-class.yml
